@@ -12,9 +12,11 @@ The final dashboard is designed to be intuitive, visually engaging, and user-fri
 
 ---
 
-## Project Files
-- **Global_Inflation_Analysis (Interactive Dashboard)**: [Explore the live interactive dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZjYyYzJjMWItMjg2OC00Y2VmLWJkOTItNThhZDYzZGQ1MDY5IiwidCI6ImI4NjBiZTJmLTI1ZGMtNDc0ZC1iNzJiLTIxZmQ4YzA0NGRiMCJ9&pageName=b35b204faeea5202239e).
-- **Global_Inflation_Analysis (Static Dashboard PDF)**: [Download the static PDF version here]().
+## **How to View the Dashboard**
+1. **Power BI Service**:
+   - [Explore the live interactive dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZjYyYzJjMWItMjg2OC00Y2VmLWJkOTItNThhZDYzZGQ1MDY5IiwidCI6ImI4NjBiZTJmLTI1ZGMtNDc0ZC1iNzJiLTIxZmQ4YzA0NGRiMCJ9&pageName=b35b204faeea5202239e).
+2. **PDF Export**:
+   - Access the static version of the dashboard: [Download the static PDF version here]().
 
 
 ---
@@ -93,15 +95,6 @@ The dataset used in this project was sourced from the **FAO (Food and Agricultur
 ---
 
 ## **Acknowledgments**
-- **Data Source**: [FAO (Food and Agriculture Organization of the United Nations)]([https://www.fao.org](https://www.fao.org/faostat/en/#data/CAHD))
+- **Data Source**: [FAO (Food and Agriculture Organization of the United Nations)](https://www.fao.org/faostat/en/#data/CAHD).
 - This project was designed using **Power BI Desktop** to showcase global inflation trends and their impact on food affordability.
 
----
-
-## **How to View the Dashboard**
-1. **Power BI Service**:
-   - View the interactive dashboard online: []
-2. **PDF Export**:
-   - Access the static version of the dashboard through the Global_Inflation_Analysis.pdf file.
-
----
