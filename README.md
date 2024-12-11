@@ -12,8 +12,10 @@ The final dashboard is designed to be intuitive, visually engaging, and user-fri
 
 ---
 
-## **Project Files**
-- **Global_Inflation_Analysis.pbix**: The Power BI project file containing all data transformations, models, and visuals.
+## Project Files
+- **Global_Inflation_Analysis (Interactive Dashboard)**: [Explore the live interactive dashboard here]([https://app.powerbi.com/view?r=eyJrIjoiZ...](https://app.powerbi.com/view?r=eyJrIjoiZjYyYzJjMWItMjg2OC00Y2VmLWJkOTItNThhZDYzZGQ1MDY5IiwidCI6ImI4NjBiZTJmLTI1ZGMtNDc0ZC1iNzJiLTIxZmQ4YzA0NGRiMCJ9&pageName=b35b204faeea5202239e)).
+- **Global_Inflation_Analysis (Static Dashboard PDF)**: [Download the static PDF version here]().
+
 
 ---
 
