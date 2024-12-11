@@ -16,7 +16,7 @@ The final dashboard is designed to be intuitive, visually engaging, and user-fri
 1. **Power BI Service**:
    - [Explore the live interactive dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZjYyYzJjMWItMjg2OC00Y2VmLWJkOTItNThhZDYzZGQ1MDY5IiwidCI6ImI4NjBiZTJmLTI1ZGMtNDc0ZC1iNzJiLTIxZmQ4YzA0NGRiMCJ9&pageName=b35b204faeea5202239e).
 2. **PDF Export**:
-   - Access the static version of the dashboard: [Download the static PDF version here]().
+   - [Download the static PDF version here]().
 
 
 ---
