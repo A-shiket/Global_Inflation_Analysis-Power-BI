@@ -14,7 +14,7 @@ The final dashboard is designed to be intuitive, visually engaging, and user-fri
 
 ## **How to View the Dashboard**
 1. **Power BI Service**:
-   - [Explore the live interactive dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZjYyYzJjMWItMjg2OC00Y2VmLWJkOTItNThhZDYzZGQ1MDY5IiwidCI6ImI4NjBiZTJmLTI1ZGMtNDc0ZC1iNzJiLTIxZmQ4YzA0NGRiMCJ9&pageName=b35b204faeea5202239e).
+   - [Explore the live interactive dashboard here](https://app.powerbi.com/view?r=eyJrIjoiNzk4NzgwOTMtZjU0Mi00ZjgyLTkyYTktYzMwOTAxNjgzZTA5IiwidCI6ImI4NjBiZTJmLTI1ZGMtNDc0ZC1iNzJiLTIxZmQ4YzA0NGRiMCJ9&pageName=b35b204faeea5202239e).
 2. **PDF Export**:
    - [View the static PDF version here](https://github.com/A-shiket/Global_Inflation_Analysis-Power-BI/blob/main/Global%20Inflation%20Analysis%20by%20Aakash%20Shiket.pdf).
 
